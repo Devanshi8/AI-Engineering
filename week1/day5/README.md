@@ -39,14 +39,18 @@ Project Workflow
    Calculate a match score for each processed resume.
    Sort candidates by their scores in descending order.
    Display the top two and lowest two candidates based on the calculated scores.
+
    Key Features
+
    Job description analysis and structured requirement extraction.
    Resume parsing for PDF and DOCX files.
    Structured data extraction using LLMs and Pydantic.
    Candidate-job compatibility evaluation.
    Identification of matching and missing skills.
    Automated batch processing and candidate ranking.
+
    Learning Outcomes
+
    Practical experience integrating LLMs into a Python application.
    Understanding structured output generation and JSON parsing.
    Working with Pydantic models for data validation.
