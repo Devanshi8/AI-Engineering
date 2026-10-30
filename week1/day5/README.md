@@ -42,12 +42,12 @@ Project Workflow
 
    Key Features
 
-   Job description analysis and structured requirement extraction.
-   Resume parsing for PDF and DOCX files.
-   Structured data extraction using LLMs and Pydantic.
-   Candidate-job compatibility evaluation.
-   Identification of matching and missing skills.
-   Automated batch processing and candidate ranking.
+   - Job description analysis and structured requirement extraction.
+   - Resume parsing for PDF and DOCX files.
+   - Structured data extraction using LLMs and Pydantic.
+   - Candidate-job compatibility evaluation.
+   - Identification of matching and missing skills.
+   - Automated batch processing and candidate ranking.
 
    Learning Outcomes
 
